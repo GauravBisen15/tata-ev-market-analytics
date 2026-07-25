@@ -61,7 +61,7 @@ Tata EV Market Intelligence & Sales Analytics/
 
 ## 🔍 Data Source
 
-Dataset sourced from **Kaggle** ([India EV Market Data](https://www.kaggle.com/datasets/srinrealyf/india-ev-market-data)), originally compiled from India's **Vahan Dashboard** (Ministry of Road Transport & Highways). Covers manufacturer-wise sales, vehicle categories, state-wise charging infrastructure, and overall vehicle registrations from 2015–2024.
+Dataset sourced from **Kaggle**, originally compiled from India's **Vahan Dashboard** (Ministry of Road Transport & Highways). Covers manufacturer-wise sales, vehicle categories, state-wise charging infrastructure, and overall vehicle registrations from 2015–2024.
 
 ---
 
@@ -105,9 +105,11 @@ Built an interactive dashboard with KPI cards, a sales trend line chart, a Tata-
 
 ## 🙋 About Me
 
-**Gaurav**
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
-🔗 [GitHub](https://github.com/your-github-handle)
+**Gaurav Bisen**
+*Aspiring Data Analyst*
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-bisen-18a1b1378)
+🔗 [GitHub](https://github.com/GauravBisen15)
 
 ---
 
