@@ -61,7 +61,7 @@ Tata EV Market Intelligence & Sales Analytics/
 
 ## 🔍 Data Source
 
-Public EV registration data from India's **Vahan Dashboard** (Ministry of Road Transport & Highways), covering manufacturer-wise sales, vehicle categories, state-wise charging infrastructure, and overall vehicle registrations from 2015–2024.
+Dataset sourced from **Kaggle** ([India EV Market Data](https://www.kaggle.com/datasets/srinrealyf/india-ev-market-data)), originally compiled from India's **Vahan Dashboard** (Ministry of Road Transport & Highways). Covers manufacturer-wise sales, vehicle categories, state-wise charging infrastructure, and overall vehicle registrations from 2015–2024.
 
 ---
 
